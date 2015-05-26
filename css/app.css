@@ -1,0 +1,188 @@
+/* whole page defaults */
+body {
+  font-family: Avenir, sans-serif;
+  color: black;
+  background-color: white;
+  max-width: 100%;
+}
+
+/* menu item defaults */
+h1, h2, h3, h4, h5, h6 {
+  color: rgb(128, 130, 133);
+  text-transform: uppercase;
+  font-size: 1.7em;
+}
+
+/* header area defaults */
+.top-bar,
+.top-bar .title-area {
+  top: 20px;
+  height: 120px;
+  background: #fff;
+}
+
+/* mobile MENU defaults */
+.top-bar .toggle-topbar a,
+.top-bar .toggle-topbar.menu-icon a {
+  color: rgb(128, 130, 133);
+  text-transform: uppercase;
+  font-size: 1.4em;
+  padding: 0px 15px 0px 0px;
+}
+
+/* mobile MENU - shift down */
+.top-bar .toggle-topbar{
+  top: 20px;
+}
+
+/* top nav defaults */
+.top-bar-section ul li,
+.top-bar-section ul li a,
+.top-bar-section li:not(.has-form) a:not(.button) {
+  color: rgb(128, 130, 133);
+  text-transform: uppercase;
+  font-size: 1.2em;
+  background: none;
+}
+
+/* top nav - shift down */
+.top-bar-section ul {
+  margin-top: 20px;
+}
+
+/* top nav - highlight option when selected */
+.top-bar-section li:not(.has-form) a:not(.button):hover {
+  background-color: rgb(245, 165, 151);
+  color: #000;
+}
+
+/* side nav defaults */
+.side-nav li a,
+.side-nav li a:not(.button),
+.side-nav li.active > a:first-child:not(.button) {
+  color: rgb(128, 130, 133);
+  text-transform: uppercase;
+  font-size: 1.7em;
+}
+
+/* side nav - highlight option when selected */
+.side-nav li.active > a:first-child:not(.button) {
+  background-color: rgb(245, 165, 151);
+  color: #000;
+}
+
+/* footer area defaults */
+.footer-area {
+  min-height: 100px;
+  margin-top: 0px;
+}
+
+/*
+// ========================================================================
+// Positioning of text and images
+// ========================================================================
+*/
+
+.columns {
+  position: relative;
+}
+
+.edge-to-edge {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.overlay-top {
+  position: absolute;
+  top: 0%;
+  left: 2%;
+  color: black;
+}
+
+.overlay-middle {
+  position: absolute;
+  top: 16%;
+  color: white;
+}
+
+.overlay-bottom {
+  position: absolute;
+  bottom: 0%;
+  right: 0%;
+  color: white;
+}
+
+/*
+// ========================================================================
+// Text style and size
+// ========================================================================
+*/
+
+.bold-style {
+  font-weight: bold;
+}
+
+.normal-style {
+  font-weight: normal;
+}
+
+.under-construction-style {
+  text-align: center;
+  background: rgba(112, 148, 77, 0.6);
+  font-weight: normal;
+}
+
+.regulated-by-style {
+  position: absolute;
+  top: 9px;
+  left: 95px;
+  font-weight: normal;
+  font-size: 12px;
+}
+
+.text-small {
+  font-size: 15px;
+}
+
+.text-medium {
+  font-size: 20px;
+}
+
+.text-large {
+  font-size: 23px;
+}
+
+/*
+// ========================================================================
+// IMAGE SIZING/POSITIONING
+// ========================================================================
+*/
+
+img {
+  max-width: 100%;
+  margin-bottom: 10px;
+  height: auto !important;
+}
+
+.full-width {
+  width: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+  max-width: initial;
+}
+
+.logo-small {
+  width: 320px !important;
+}
+
+.logo-normal {
+  width: 450px !important;
+}
+
+.member-icon {
+  width: 80px !important;
+}
+
+.social-icon {
+  width: 30px !important;
+}

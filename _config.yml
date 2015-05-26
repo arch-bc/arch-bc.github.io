@@ -1,0 +1,11 @@
+# Site settings
+title: Arch Building Consultancy
+description: Alterations, Repairs & Conservation of Historic Buildings
+email: info@arch-bc.co.uk
+url: http://archbuildingconsultancy.co.uk
+baseurl: ''
+copyright_owner: Pete Hayes
+
+# Build settings
+markdown: kramdown
+permalink: pretty
