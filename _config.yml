@@ -1,6 +1,6 @@
 # Site settings
 title: Arch Building Consultancy
-description: Alterations, Repairs & Conservation of Historic Buildings
+description: Providing advise, design, planning and liaison on the alteration, repair and conservation of historic buildings. Based in Wareside, Hertfordshire, Peter Hayes is a Chartered Building Surveyor having worked for the National Trust and private practice.
 email: info@arch-bc.co.uk
 url: http://archbuildingconsultancy.co.uk
 baseurl: ''
@@ -9,3 +9,12 @@ copyright_owner: Pete Hayes
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Collections
+collections:
+  other:
+    output: true
+  projects:
+    output: true
+  services:
+    output: true

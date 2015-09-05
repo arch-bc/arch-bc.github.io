@@ -21,8 +21,10 @@
       {% include header.html %}
     </div>
 
-    <div class="row full-width">
-      {{ content }}
+    <div class="row full-width body-area">
+        <div class="small-12 columns border-none on-biscuit">
+            {{ content }}
+        </div>
     </div>
 
     <div class="row full-width footer-area">
@@ -30,7 +32,9 @@
     </div>
 
     <script src="{{ "/js/vendor/jquery.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/vendor/fastclick.js" | prepend: site.baseurl }}"></script>
     <script src="{{ "/js/foundation.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/responsiveHeight.js" | prepend: site.baseurl }}"></script>
     <script>
       $(document).foundation();
     </script>

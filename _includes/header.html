@@ -1,25 +1,24 @@
-<nav class="top-bar" data-topbar>
+<div class="sticky">
 
-    <div class="show-for-small">
-        <div class="small-12 columns">
-            <a href="{{ site.baseurl }}/"><img src="/imgs/arch_logo.png" class="logo-small"></a>
-        </div>
+  <nav class="top-bar" data-topbar role="navigation">
+
+    <div class="small-8 medium-5 columns border-all-sides">
+      <a href="{{ site.baseurl }}/"><img src="/imgs/logos/arch_logo.png" class="logo-header"></a>
     </div>
 
-    <div class="show-for-medium-up">
-        <div class="small-8 columns">
-            <a href="{{ site.baseurl }}/"><img src="/imgs/arch_logo.png" class="logo-normal"></a>
-        </div>
-        <div class="small-4 columns">
-            <p class="contact-style text-small">
-                T: 01920 486050<br>
-                M: 07971 207012<br>
-                E: <a href="mailto:info@arch-bc.co.uk">info@arch-bc.co.uk</a><br>
-                <br>
-                5 Tatlingtown, Wareside<br>
-                Hertfordshire, SG12 7RP<br>
-            </p>
-        </div>
+    <div class="toggle-topbar">
+      <a href="#"><span>Menu</span></a>
     </div>
 
-</nav>
+    <div class="top-bar-section">
+      <ul class="right">
+        <li><a href="{{ site.baseurl }}/about">ABOUT</a></li>
+        <li><a href="{{ site.baseurl }}/projects">PROJECTS</a></li>
+        <li><a href="{{ site.baseurl }}/services">SERVICES</a></li>
+        <li><a href="{{ site.baseurl }}/contact">CONTACT</a></li>
+      </ul>
+    </div>
+
+  </nav>
+
+</div>
