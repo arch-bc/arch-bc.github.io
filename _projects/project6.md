@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: projectNew
 title: A LIMECRETE LIVING ROOM
 permalink: /project6/
 desc:
@@ -8,8 +8,12 @@ desc:
     Project reference code 125.
 
 images:
-  - url: /imgs/project6/1_125-05B-Proposed-Floor-Plan_Listed-Building-Consent_Internal-Remodelling_DT.jpg
-  - url: /imgs/project6/2_125_02-Listed-Building-Consent_Internal-Remodelling_DT.jpg
-  - url: /imgs/project6/3_125_Proposed-LECA-Limecrete-Floor-Slabs_Building-Regaulations_Building-Notice_Grade-2-Listed-Building_DT.jpg
-  - url: /imgs/project6/4_125_05B_Proposed-Floor-Plan_Listed-Building-Consent_Internal-Remodelling_DT.jpg
+  - mobile: /imgs/project6/mobile/1_125-05B-Proposed-Floor-Plan_Listed-Building-Consent_Internal-Remodelling_DT.jpg
+  - mobile: /imgs/project6/mobile/2_125_02-Listed-Building-Consent_Internal-Remodelling.jpg
+  - mobile: /imgs/project6/mobile/3_125_Proposed-LECA-Limecrete-Floor-Slabs_Building-Regaulations_Building-Notice_Grade-2-Listed-Building_DT.jpg
+  - mobile: /imgs/project6/mobile/4_125-05B---Proposed-Floor-Plan_Listed-Building-Consent_Internal-Remodelling_M.jpg
+  - desktop: /imgs/project6/desktop/1_125-05B-Proposed-Floor-Plan_Listed-Building-Consent_Internal-Remodelling_DT.jpg
+  - desktop: /imgs/project6/desktop/2_125_02-Listed-Building-Consent_Internal-Remodelling_DT.jpg
+  - desktop: /imgs/project6/desktop/3_125_Proposed-LECA-Limecrete-Floor-Slabs_Building-Regaulations_Building-Notice_Grade-2-Listed-Building_DT.jpg
+  - desktop: /imgs/project6/desktop/4_125_05B_Proposed-Floor-Plan_Listed-Building-Consent_Internal-Remodelling_DT.jpg
 ---
