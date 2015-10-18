@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: projectNew
 title: REPAIRS TO THE TOWER
 permalink: /project1/
 desc:
@@ -10,8 +10,12 @@ desc:
       Project reference code 102.
 
 images:
-  - url: /imgs/project1/1_102_1_St-Mary-the-Virgin-Ware_west-tower_stone-masonry_conservation_repairs_grade-1-listed-building_DT.jpg
-  - url: /imgs/project1/2_102_St-Mary-the-Virgin-Ware_west-tower_stone-masonry_conservation_repairs_grade-1-listed-building_lime-mortar_plastic-mortar-repairs_stone-replacement_like-for-like-repairs_PCC_quinquennial-survey_specification-of-works_DT.jpg
-  - url: /imgs/project1/3_102_St Mary the Virgin Ware_west tower_stone_masonry_conservation_repairs_grade 1 listed building_lime mortar_plastic mortar repairs_stone replacement_like for like repairs_PCC_quinquennial survey_specification of works_site supervision_DT.jpg
-  - url: /imgs/project1/4_102_St-Mary-the-Virgin-Ware_west-tower_stone_DT.jpg
+  - mobile: /imgs/project1/mobile/102_1_St-Mary-the-Virgin-Ware_west-tower_stone-masonry_conservation_repairs_grade-1-listed-building_lime-mortar_plastic-mortar-repairs_stone-replacement_like-for-like-repairs_PCC_quinquennial-survey_specification-of-works_site-supervision_M.jpg
+  - mobile: /imgs/project1/mobile/102_2_St-Mary-the-Virgin-Ware_west-tower_stone-masonry_conservation_repairs_grade-1-listed-building_lime-mortar_plastic-mortar-repairs_stone-replacement_like-for-like-repairs_PCC_quinquennial-survey_specification-of-works_site-supervision_M.jpg
+  - mobile: /imgs/project1/mobile/102_3_St-Mary-the-Virgin-Ware_west-tower_stone-masonry_conservation_repairs_grade-1-listed-building_lime-mortar_plastic-mortar-repairs_stone-replacement_like-for-like-repairs_PCC_quinquennial-survey_specification-of-works_site-supervision_M.jpg
+  - mobile: /imgs/project1/mobile/102_4_St-Mary-the-Virgin-Ware_west-tower_stone_M.jpg
+  - desktop: /imgs/project1/desktop/1_102_1_St-Mary-the-Virgin-Ware_west-tower_stone-masonry_conservation_repairs_grade-1-listed-building_DT.jpg
+  - desktop: /imgs/project1/desktop/2_102_St-Mary-the-Virgin-Ware_west-tower_stone-masonry_conservation_repairs_grade-1-listed-building_lime-mortar_plastic-mortar-repairs_stone-replacement_like-for-like-repairs_PCC_quinquennial-survey_specification-of-works_DT.jpg
+  - desktop: /imgs/project1/desktop/3_102_St Mary the Virgin Ware_west tower_stone_masonry_conservation_repairs_grade 1 listed building_lime mortar_plastic mortar repairs_stone replacement_like for like repairs_PCC_quinquennial survey_specification of works_site supervision_DT.jpg
+  - desktop: /imgs/project1/desktop/4_102_St-Mary-the-Virgin-Ware_west-tower_stone_DT.jpg
 ---
