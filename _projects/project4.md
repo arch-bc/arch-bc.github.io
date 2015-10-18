@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: projectNew
 title: BEETLE BOTHER
 permalink: /project4/
 desc:
@@ -9,6 +9,8 @@ desc:
       Project reference code 114.
 
 images:
-  - url: /imgs/project4/1_114_Listed-Building-Consent_Grade-2--Listed-Building_Full-Measured-Survey_DT.jpg
-  - url: /imgs/project4/2_114_02_Sub-floor-vent-detail_Listed-Building-Consent_Grade-2--Listed-Building_Full-Measured-Survey_Planning-Permission_Planning-Appeal_DTpg.jpg
+  - mobile: /imgs/project4/mobile/1_114_Listed-Building-Consent_Grade-2-Listed-Building_Full-Measured-Survey_M.jpg
+  - mobile: /imgs/project4/mobile/2_114_Sub-floor-vent-detail_Listed-Building-Consent_Grade-2--Listed-Building_M.jpg
+  - desktop: /imgs/project4/desktop/1_114_Listed-Building-Consent_Grade-2--Listed-Building_Full-Measured-Survey_DT.jpg
+  - desktop: /imgs/project4/desktop/2_114_02_Sub-floor-vent-detail_Listed-Building-Consent_Grade-2--Listed-Building_Full-Measured-Survey_Planning-Permission_Planning-Appeal_DTpg.jpg
 ---
