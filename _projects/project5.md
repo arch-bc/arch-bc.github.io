@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: projectNew
 title: CAR CRASH HERITAGE REPAIRS
 permalink: /project5/
 desc:
@@ -9,9 +9,14 @@ desc:
     Project reference code 126.
 
 images:
-  - url: /imgs/project5/1_129-04-3D-Proposed-Exterior-View-EDIT.jpg
-  - url: /imgs/project5/2_129_01_Listed-Building_Car-Impact-damage_-reinstatement-works_Listed-Building-Consent.jpg
-  - url: /imgs/project5/3_129-05---3D-Proposed-Interior-View.jpg
-  - url: /imgs/project5/4_129-02_Listed-Building_Car-Impact-damage_-reinstatement-works_Listed-Building-Consent_DT.jpg
-  - url: /imgs/project5/5_129-11_Proposed-Door-Details_Listed-Building-Consent_Clearance-of-planning-conditions.jpg
+  - mobile: /imgs/project5/mobile/1_129-04-3D-Proposed-Exterior-View-EDIT.jpg
+  - mobile: /imgs/project5/mobile/2_129_01_Listed-Building_Car-Impact-damage_-reinstatement-works_Listed-Building-Consent.jpg
+  - mobile: /imgs/project5/mobile/3_129-05---3D-Proposed-Interior-View.jpg
+  - mobile: /imgs/project5/mobile/4_129-02_Listed-Building_Car-Impact-damage_-reinstatement-works_Listed-Building-Consent_M.jpg
+  - mobile: /imgs/project5/mobile/5_129-11_Proposed-Door-Details_Listed-Building-Consent_Clearance-of-planning-conditions.jpg
+  - desktop: /imgs/project5/desktop/1_129-04-3D-Proposed-Exterior-View-EDIT.jpg
+  - desktop: /imgs/project5/desktop/2_129_01_Listed-Building_Car-Impact-damage_-reinstatement-works_Listed-Building-Consent.jpg
+  - desktop: /imgs/project5/desktop/3_129-05---3D-Proposed-Interior-View.jpg
+  - desktop: /imgs/project5/desktop/4_129-02_Listed-Building_Car-Impact-damage_-reinstatement-works_Listed-Building-Consent_DT.jpg
+  - desktop: /imgs/project5/desktop/5_129-11_Proposed-Door-Details_Listed-Building-Consent_Clearance-of-planning-conditions.jpg
 ---
