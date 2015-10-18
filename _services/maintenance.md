@@ -19,5 +19,6 @@ desc:
     specifications and drawings to send out for pricing to appropriately skilled building contractors. I can also oversee and provide advice while the  works are undertaken to ensure that the work is undertaken correctly.
 
 images:
-  - url: /./imgs/maintenance//P1010880_2_DT.jpg
+  - mobile: /imgs/maintenance/mobile/P1010880_2_M.jpg
+  - desktop: /imgs/maintenance/desktop/P1010880_2_DT.jpg
 ---

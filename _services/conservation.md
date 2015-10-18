@@ -24,5 +24,6 @@ desc:
     Sometimes planning conditions require separate third party consultants, for example an archaeological recording condition. I can organise this on your behalf and, if necessary, coordinate its submission with any other conditions, to ensure the process is as time and cost efficient as possible.
 
 images:
-  - url: /./imgs/conservation//Sketch-scheme_planning-drawings_green-belt_detached-garage-DT.jpg
+  - mobile: /imgs/conservation/mobile/Sketch-scheme_planning-drawings_green-belt_detached-garage-M.jpg
+  - desktop: /imgs/conservation/desktop/Sketch-scheme_planning-drawings_green-belt_detached-garage-DT.jpg
 ---

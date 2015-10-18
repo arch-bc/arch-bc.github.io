@@ -35,5 +35,6 @@ desc:
     provide you with a quotation.
 
 images:
-  - url: /./imgs/surveys//04_RICS_building_survey_chartered-surveyor_DT.jpg
+  - mobile: /imgs/surveys/mobile/04_RICS_building_survey_chartered-surveyor_M.jpg
+  - desktop: /imgs/surveys/desktop/04_RICS_building_survey_chartered-surveyor_DT.jpg
 ---

@@ -17,5 +17,6 @@ desc:
     My role would include the independent valuation of the works for stage payments and letting you know what is owed; agreeing any variations - both additional items or where items have been omitted - in the specified works; ensuring that the contractor progresses the works diligently; agreeing any extensions to the original contract period; and inspection of the works on site, during the building process, on completion and at the end of a period after completion, to ensure that the works have been completed in accordance with the specification.
 
 images:
-  - url: /./imgs/liaison//Surveyor_Site_Visit_Survey_03_DT.jpg
+  - mobile: /imgs/liaison/mobile/Surveyor_Site_Visit_Survey_03_M.jpg
+  - desktop: /imgs/liaison/desktop/Surveyor_Site_Visit_Survey_03_DT.jpg
 ---

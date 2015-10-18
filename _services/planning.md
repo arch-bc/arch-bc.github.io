@@ -20,5 +20,6 @@ desc:
     I have a real passion for historic buildings and consider it a privilege to be able to advise on and work with them. The subjectivity of conservation means that I am not able to second guess the outcome of a listed building consent application. However, I pride myself in a straight talking and pragmatic approach. As such, I will highlight to you the potential pros and cons of the potential alterations you are considering and will only recommend proceeding to the preparation of an application, where there is a reasonable chance of an approval.
   
 images:
-  - url: /./imgs/planning//5_115_04_four-centre-brick-arch_DT.jpg
+  - mobile: /imgs/planning/mobile/5_115_04_four-centre-brick-arch_M.jpg
+  - desktop: /imgs/planning/desktop/5_115_04_four-centre-brick-arch_DT.jpg
 ---

@@ -34,5 +34,6 @@ desc:
     variations in costs once the work is on site, both where items of work are expanded or reduced.
 
 images:
-  - url: /./imgs/design//100_TT_02_Rear-Extension_timber-frame_conservation-Area_passivhaus_Diffutherm_Pavaflex_Pavatherm_Beamsheild.jpg
+  - mobile: /imgs/design/mobile/100_TT_02_Rear-Extension_timber-frame_conservation-Area_passivhaus_Diffutherm_Pavaflex_Pavatherm_Beamsheild.jpg
+  - desktop: /imgs/design/desktop/100_TT_02_Rear-Extension_timber-frame_conservation-Area_passivhaus_Diffutherm_Pavaflex_Pavatherm_Beamsheild.jpg
 ---
