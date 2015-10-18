@@ -16,9 +16,9 @@ function updateMarkdown {
     
     echo images: >>$markdownFile.new
     
-    ls -d -1 $2mobile/* >images.txt
+    ls -d -1 $2/mobile/* >images.txt
     awk '// {print "  - mobile: /" $0}' images.txt >>$markdownFile.new
-    ls -d -1 $2desktop/* >images.txt
+    ls -d -1 $2/desktop/* >images.txt
     awk '// {print "  - desktop: /" $0}' images.txt >>$markdownFile.new
 
     echo --- >>$markdownFile.new

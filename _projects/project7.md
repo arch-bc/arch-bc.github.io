@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: projectNew
 title: A SIZEABLE SURVEY
 permalink: /project7/
 desc:
@@ -9,8 +9,12 @@ desc:
     Project reference code 133.
 
 images:
-  - url: /imgs/project7/1_133_01_Listed-Building_Building-Survey_Strucutral-Survey_Pre-aquisition_Building-Defects_Historic_Town-House_DT.jpg
-  - url: /imgs/project7/2_133_02_Roof-spread_Listed-Building_Building-Survey_Strucutral-Survey_Pre-aquisition_Building-Defects_Historic_Town-House_DT.jpg
-  - url: /imgs/project7/3_133_03_Roof-spread_Listed-Building_Building-Survey_Strucutral-Survey_Pre-aquisition_Building-Defects_Historic_Town-House_DT.jpg
-  - url: /imgs/project7/4_133_04_Carpenters-marks_Timber-frame_Listed-Building_Building-Survey_Strucutral-Survey_Pre-aquisition_Building-Defects_Historic_Town-House_DT.jpg
+  - mobile: /imgs/project7/mobile/1_133_01_Listed-Building_Building-Survey_Strucutral-Survey_Pre-aquisition_Building-Defects_Historic_Town-House_M.jpg
+  - mobile: /imgs/project7/mobile/2_133_02_Roof-spread_Listed-Building_Building-Survey_Strucutral-Survey_Pre-aquisition_Building-Defects_Historic_Town-House_M.jpg
+  - mobile: /imgs/project7/mobile/3_133_03_Roof-spread_Listed-Building_Building-Survey_Strucutral-Survey_Pre-aquisition_Building-Defects_Historic_Town-House_M.jpg
+  - mobile: /imgs/project7/mobile/4_133_04_Carpenters-marks_Timber-frame_Listed-Building_Building-Survey_Strucutral-Survey_Pre-aquisition_Building-Defects_Historic_Town-House_M.jpg
+  - desktop: /imgs/project7/desktop/1_133_01_Listed-Building_Building-Survey_Strucutral-Survey_Pre-aquisition_Building-Defects_Historic_Town-House_DT.jpg
+  - desktop: /imgs/project7/desktop/2_133_02_Roof-spread_Listed-Building_Building-Survey_Strucutral-Survey_Pre-aquisition_Building-Defects_Historic_Town-House_DT.jpg
+  - desktop: /imgs/project7/desktop/3_133_03_Roof-spread_Listed-Building_Building-Survey_Strucutral-Survey_Pre-aquisition_Building-Defects_Historic_Town-House_DT.jpg
+  - desktop: /imgs/project7/desktop/4_133_04_Carpenters-marks_Timber-frame_Listed-Building_Building-Survey_Strucutral-Survey_Pre-aquisition_Building-Defects_Historic_Town-House_DT.jpg
 ---
