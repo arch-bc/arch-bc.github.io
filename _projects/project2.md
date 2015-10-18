@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: projectNew
 title: A GAOL BREATHES AGAIN
 permalink: /project2/
 desc:
@@ -9,8 +9,12 @@ desc:
       Project reference code 108.
 
 images:
-  - url: /imgs/project2/1_108_05_The-Cage-Shenley_Grade-2-Listed-Building_Cementitous-render-replacement_shenely-parish-council_listed-building-consent_hydraulic-lime-render_lime-wash_DT.jpg
-  - url: /imgs/project2/2_108_03_The-Cage-Shenley_Grade-2-Listed-Building_Cementitous-render-replacement_shenely-parish-council_listed-building-consent_hydraulic-lime-render_lime-wash_1280W_DT.jpg
-  - url: /imgs/project2/3_108_06_The-Cage-Shenley_Grade-2-Listed-Building_Cementitous-render-replacement_shenely-parish-council_listed-building-consent_hydraulic-lime-render_lime-wash_DT.jpg
-  - url: /imgs/project2/4_108_01_The-Cage-Shenley_Grade-2-Listed-Building_Cementitous-render-replacement_shenely-parish-council_listed-building-consent_hydraulic-lime-render_lime-wash_DT.jpg
+  - mobile: /imgs/project2/mobile/1_108_05_The-Cage-Shenely_Grade-2-Listed-Building_Cementitous-render-replacement_shenely-parish-council_listed-building-consent_hydraulic-lime-render_lime-wash_M.jpg
+  - mobile: /imgs/project2/mobile/2_108_03_The-Cage-Shenely_Grade-2-Listed-Building_Cementitous-render-replacement_shenely-parish-council_listed-building-consent_hydraulic-lime-render_lime-wash_M.jpg
+  - mobile: /imgs/project2/mobile/3_108_06_The-Cage-Shenely_Grade-2-Listed-Building_Cementitous-render-replacement_shenely-parish-council_listed-building-consent_hydraulic-lime-render_lime-wash_M.jpg
+  - mobile: /imgs/project2/mobile/4_108_01_The-Cage-Shenely_Grade-2-Listed-Building_Cementitous-render-replacement_shenely-parish-council_listed-building-consent_hydraulic-lime-render_lime-wash_M.jpg
+  - desktop: /imgs/project2/desktop/1_108_05_The-Cage-Shenley_Grade-2-Listed-Building_Cementitous-render-replacement_shenely-parish-council_listed-building-consent_hydraulic-lime-render_lime-wash_DT.jpg
+  - desktop: /imgs/project2/desktop/2_108_03_The-Cage-Shenley_Grade-2-Listed-Building_Cementitous-render-replacement_shenely-parish-council_listed-building-consent_hydraulic-lime-render_lime-wash_1280W_DT.jpg
+  - desktop: /imgs/project2/desktop/3_108_06_The-Cage-Shenley_Grade-2-Listed-Building_Cementitous-render-replacement_shenely-parish-council_listed-building-consent_hydraulic-lime-render_lime-wash_DT.jpg
+  - desktop: /imgs/project2/desktop/4_108_01_The-Cage-Shenley_Grade-2-Listed-Building_Cementitous-render-replacement_shenely-parish-council_listed-building-consent_hydraulic-lime-render_lime-wash_DT.jpg
 ---
