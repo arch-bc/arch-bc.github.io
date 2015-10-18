@@ -13,5 +13,6 @@ desc:
     Buildings Limes Forum and the Society for the Protection of Ancient Buildings (SPAB).
 
 images:
-  - url: /./imgs/about//100_Tatlingtown_Wareside_design_specification_rear-extension_planning-permission_building-regulations_timber-frame_oak-frame_construction_site-management-and-liaison_site-supervision_building-contractors_DT.jpg
+  - mobile: /imgs/about/mobile/100_Tatlingtown_Wareside_design_specification_rear-extension_planning-permission_building-regulations_timber-frame_oak-frame_construction_site-management-and-liaison_site-supervision_building-contractors_M.jpg
+  - desktop: /imgs/about/desktop/100_Tatlingtown_Wareside_design_specification_rear-extension_planning-permission_building-regulations_timber-frame_oak-frame_construction_site-management-and-liaison_site-supervision_building-contractors_DT.jpg
 ---

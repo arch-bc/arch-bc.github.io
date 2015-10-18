@@ -12,7 +12,14 @@ layout: default
 </div>
 
 <div class="small-12 medium-7 columns border-dynamic">
-  {% for image in page.images %}
-  <img class="border-bottom-only" src="{{ image.url }}"/>
-  {% endfor %}
+  <div class="show-for-small-only">
+    {% for image in page.images %}
+    <img class="border-bottom-only" src="{{ image.mobile }}"/>
+    {% endfor %}
+  </div>
+  <div class="show-for-medium-up">
+    {% for image in page.images %}
+    <img class="border-bottom-only" src="{{ image.desktop }}"/>
+    {% endfor %}
+  </div>
 </div>
