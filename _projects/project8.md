@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: projectNew
 title: THE GEORGIAN LINK
 permalink: /project8/
 desc:
@@ -9,6 +9,8 @@ desc:
     Project reference code 101.
 
 images:
-  - url: /imgs/project8/1_101_03_new-extension_planning-permission_listed-builing-consent_approval_DT.jpg
-  - url: /imgs/project8/2_101_04_specification-of-works_building-regulations_listed-building_DT.jpg
+  - mobile: /imgs/project8/mobile/101_04_specification-of-works_building-regulations_listed-building_M.jpg
+  - mobile: /imgs/project8/mobile/3_101_new-extension_planning-permission_listed-builing-consent_approval_M.jpg
+  - desktop: /imgs/project8/desktop/1_101_03_new-extension_planning-permission_listed-builing-consent_approval_DT.jpg
+  - desktop: /imgs/project8/desktop/2_101_04_specification-of-works_building-regulations_listed-building_DT.jpg
 ---
