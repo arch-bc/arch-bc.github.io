@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: projectNew
 title: A STABLE EXTENSION
 permalink: /project3/
 desc:
@@ -9,9 +9,14 @@ desc:
       Project reference code 115.
 
 images:
-  - url: /imgs/project3/1_115_01A_3D-Model_Planning-Permission_Planning-Appeal_Rear-Extension_Curtilage_Setting-of-a-listed-building_DT.jpg
-  - url: /imgs/project3/2_115_01__Planning-Permission_Planning-Appeal_Rear-Extension_Curtilage_Setting-of-a-listed-building_DT.jpg
-  - url: /imgs/project3/3_115_03_South-Elevation_Planning-Permission_Planning-Appeal_Rear-Extension_Curtilage_Setting-of-a-listed-building_DT.jpg
-  - url: /imgs/project3/4_115_02_-East-Elevation_Planning-Permission_Planning-Appeal_Rear-Extension_Curtilage_Setting-of-a-listed-building_DT.jpg
-  - url: /imgs/project3/5_115_04_four-centre-brick-arch_DT.jpg
+  - mobile: /imgs/project3/mobile/1_115_01A_3D-Model_Planning-Permission_Planning-Appeal_Rear-Extension_Curtilage_Setting-of-a-listed-buildin_M.jpg
+  - mobile: /imgs/project3/mobile/2_115_01__Planning-Permission_Planning-Appeal_Rear-Extension_Curtilage_Setting-of-a-listed-building_M.jpg
+  - mobile: /imgs/project3/mobile/3_115_03_South-Elevation_Planning-Permission_Planning-Appeal_Rear-Extension_Curtilage_Setting-of-a-listed-building_M.jpg
+  - mobile: /imgs/project3/mobile/4_115_02_-East-Elevation_Planning-Permission_Planning-Appeal_Rear-Extension_Curtilage_Setting-of-a-listed-building_M.jpg
+  - mobile: /imgs/project3/mobile/5_115_04_four-centre-brick-arch_M.jpg
+  - desktop: /imgs/project3/desktop/1_115_01A_3D-Model_Planning-Permission_Planning-Appeal_Rear-Extension_Curtilage_Setting-of-a-listed-building_DT.jpg
+  - desktop: /imgs/project3/desktop/2_115_01__Planning-Permission_Planning-Appeal_Rear-Extension_Curtilage_Setting-of-a-listed-building_DT.jpg
+  - desktop: /imgs/project3/desktop/3_115_03_South-Elevation_Planning-Permission_Planning-Appeal_Rear-Extension_Curtilage_Setting-of-a-listed-building_DT.jpg
+  - desktop: /imgs/project3/desktop/4_115_02_-East-Elevation_Planning-Permission_Planning-Appeal_Rear-Extension_Curtilage_Setting-of-a-listed-building_DT.jpg
+  - desktop: /imgs/project3/desktop/5_115_04_four-centre-brick-arch_DT.jpg
 ---
