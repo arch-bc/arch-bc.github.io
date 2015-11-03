@@ -13,7 +13,7 @@ desc:
     This is particularly important where the property is statutorily listed, as potential repairs may require a specific approach or material,
     which can differ from more widely known modern construction practices and methods.<br><br>
 
-    Similarly, the listing of a building afects what can be altered, which means you could be inheriting
+    Similarly, the listing of a building affects what can be altered, which means you could be inheriting
     responsibility for existing unapproved alterations or your own ideas for altering and/or extending the
     property once purchased may be restricted.<br><br>
     
