@@ -219,6 +219,7 @@ body {
 }
 
 .regulated-by-style {
+  text-align: center;
   position: absolute;
   top: 9px;
   left: 95px;
