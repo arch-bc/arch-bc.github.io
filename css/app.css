@@ -161,8 +161,12 @@ body {
   top: 0px;
 }
 
-.sticky-column{
+.sticky-column {
   position: fixed;
+}
+
+.uppercase {
+  text-transform: uppercase;
 }
 
 /*

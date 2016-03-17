@@ -1,12 +1,12 @@
 ---
 layout: project
-title: A LIMECRETE LIVING ROOM
+title: A Limecrete Living Room
 permalink: /project6/
 desc:
     A 16th Century open hall house with 17th Century first floor insertion.<br><br>
     I have been assisting the owner of this Grade 2 listed, private dwelling, submitting a Building Notice of a Limecrete floor slab; attaining Listed Building Consent approval for remodelling part of a modern extension;  and am currently clearing planning conditions and providing manufacture drawn details for a bespoke, metal frame, leaded light window.<br><br>
     Project reference code 125.
-
+summary: /imgs/project6/1_125-05B-Proposed-Floor-Plan_Listed-Building-Consent_Internal-Remodelling_GAL.jpg
 images:
   - mobile: /imgs/project6/mobile/1_125-05B-Proposed-Floor-Plan_Listed-Building-Consent_Internal-Remodelling_DT.jpg
   - mobile: /imgs/project6/mobile/2_125_02-Listed-Building-Consent_Internal-Remodelling.jpg
