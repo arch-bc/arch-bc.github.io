@@ -1,5 +1,5 @@
 ---
-layout: projectNew
+layout: project
 title: REPAIRS TO THE TOWER
 permalink: /project1/
 desc:

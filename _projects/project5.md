@@ -1,5 +1,5 @@
 ---
-layout: projectNew
+layout: project
 title: CAR CRASH HERITAGE REPAIRS
 permalink: /project5/
 desc:

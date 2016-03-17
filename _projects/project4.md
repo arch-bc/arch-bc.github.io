@@ -1,5 +1,5 @@
 ---
-layout: projectNew
+layout: project
 title: BEETLE BOTHER
 permalink: /project4/
 desc:

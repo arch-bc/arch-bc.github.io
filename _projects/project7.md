@@ -1,5 +1,5 @@
 ---
-layout: projectNew
+layout: project
 title: A SIZEABLE SURVEY
 permalink: /project7/
 desc:

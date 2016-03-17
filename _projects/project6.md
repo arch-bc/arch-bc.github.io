@@ -1,5 +1,5 @@
 ---
-layout: projectNew
+layout: project
 title: A LIMECRETE LIVING ROOM
 permalink: /project6/
 desc:

@@ -1,5 +1,5 @@
 ---
-layout: projectNew
+layout: project
 title: A STABLE EXTENSION
 permalink: /project3/
 desc:

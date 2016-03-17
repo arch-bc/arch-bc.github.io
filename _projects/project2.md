@@ -1,5 +1,5 @@
 ---
-layout: projectNew
+layout: project
 title: A GAOL BREATHES AGAIN
 permalink: /project2/
 desc:

@@ -1,5 +1,5 @@
 ---
-layout: projectNew
+layout: project
 title: THE GEORGIAN LINK
 permalink: /project8/
 desc:
