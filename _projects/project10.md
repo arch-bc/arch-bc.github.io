@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Busy Masonry Bees...
+title: Busy Masonry Bees
 permalink: /project10/
 desc:
     I was appointed to undertake a full building survey (structural survey) of a Grade II listed cottage in Essex.<br><br>

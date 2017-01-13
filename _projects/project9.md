@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Out Back...
+title: Out Back
 permalink: /project9/
 desc:
     This scheme was a follow up project for a client in Hertfordshire. Having previously successfully attained planning permission for the construction of a new detached motor shed, I was appointed to attain Listed Building Consent and Planning Permission for a extension to a granary outbuilding.<br><br>
