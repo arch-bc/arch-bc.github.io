@@ -105,6 +105,10 @@ body {
   background-color: rgb(160, 151, 146);
 }
 
+.on-dark-olive {
+  background-color: rgb(96, 103, 46);
+}
+
 .on-dark-green {
   background-color: rgb(96, 114, 72);
 }
@@ -175,22 +179,17 @@ body {
 // ========================================================================
 */
 
+.what-list {
+  margin: 0px;
+  padding: 0px;
+}
+
 .what-block {
   text-align: center;
   /* top right bottom left */
-  margin: 20px 0px 10px 10px;
-  border: 0;
+  margin: 20px 0px 10px 20px;
   padding: 15px;
-  height: 150px;
-  line-height: 150px;
-}
-
-.showcase-block {
-  text-align: center;
-  /* top right bottom left */
-  margin: 10px 0px 20px 10px;
   border: 0;
-  padding: 15px;
   height: 150px;
   line-height: 150px;
 }

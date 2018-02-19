@@ -1,17 +1,11 @@
 function setHomeElementSize() {
   var blockHeight = $('#home-image').height();
-  blockHeight = blockHeight - parseInt( $('.what-block').css('paddingTop') );
-  blockHeight = blockHeight - parseInt( $('.what-block').css('paddingBottom') );
-  blockHeight = blockHeight - parseInt( $('.what-block').css('marginBottom') );
-  blockHeight = blockHeight - parseInt( $('.showcase-block').css('paddingTop') );
-  blockHeight = blockHeight - parseInt( $('.showcase-block').css('paddingBottom') );
-  blockHeight = blockHeight/2;
+  var numOfBlocks = $('.what-list').children().length;
+  var blockMargin = parseInt( $('.what-block').css('paddingBottom') );
+  blockHeight = (blockHeight/numOfBlocks) - (blockMargin*numOfBlocks) + 1;
 
   $('.what-block').height(blockHeight);
   $('.what-block').css('line-height', blockHeight+'px');
-
-  $('.showcase-block').height(blockHeight);
-  $('.showcase-block').css('line-height', blockHeight+'px');
 };
 
 function setContactElementSize() {
