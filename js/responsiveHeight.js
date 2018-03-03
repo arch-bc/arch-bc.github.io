@@ -3,9 +3,38 @@ function setHomeElementSize() {
   var numOfBlocks = $('.what-list').children().length;
   var blockMargin = parseInt( $('.what-block').css('paddingBottom') );
   blockHeight = (blockHeight/numOfBlocks) - (blockMargin*numOfBlocks) + 1;
-
+  
   $('.what-block').height(blockHeight);
   $('.what-block').css('line-height', blockHeight+'px');
+  $('.what-block').css('margin-top','20px');
+  $('.what-block').css('margin-right','0px');
+  $('.what-block').css('margin-bottom','10px');
+  $('.what-block').css('margin-left','20px');
+
+  $('.font-dynamic').css('font-size','1.5vw');
+  $('#logo-index').css('height','4vw');
+
+  var blockWidth = $('#home-image').width();
+  var windowWidth = $(window).width();
+  if (blockWidth == windowWidth) {
+    blockHeight = 80;
+    $('.what-block').height(blockHeight);
+    $('.what-block').css('line-height', blockHeight+'px');
+    
+    $('.what-block').css('margin','0px');
+    $('.what-block').css('margin-bottom','20px');
+    $('.showcase-block').css('margin','0px');
+    $('.showcase-block').css('margin-bottom','20px');
+    
+    $('.font-dynamic').css('font-size','3.5vw');
+    $('#logo-index').css('height','8vw');
+    
+    $('.sticky-column').css('position','initial');
+    $('.top-bar-section').css('margin-top','0px');
+    $('.border-dynamic').css('padding-bottom','0px');
+    
+  }
+  
 };
 
 function setContactElementSize() {

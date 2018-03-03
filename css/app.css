@@ -305,8 +305,9 @@ body {
 */
 
 .font-dynamic {
+  display: inline-block;
   font-size: 1.2em;
-  letter-spacing: 100;
+  letter-spacing: 1.5px;
   line-height: 1.2em;
 }
 
@@ -329,43 +330,12 @@ body {
   text-transform: uppercase;
 }
 
-/* media queries to resize fonts for small devices */
-@media only screen and (min-width: 1000px) {
-  .font-dynamic { font-size: 1.1em; }
-  #logo-index { height: 70px; }
-}
-
-@media only screen and (max-width: 1000px) {
-  .font-dynamic { font-size: 1.0em; }
-  #logo-index { height: 55px; }
-}
-
-@media only screen and (max-width: 800px) {
-  .font-dynamic { font-size: 0.9em; }
-  #logo-index { height: 40px; }
-}
-
-@media only screen and (max-width: 600px) {
-  .font-dynamic { font-size: 1.1em; }
-  #logo-index { height: 50px; }
-}
-
-@media only screen and (max-width: 400px) {
-  .font-dynamic { font-size: 0.9em; }
-  #logo-index { height: 30px; }
-}
 
 /*
 // ========================================================================
-// Element overrides for mobile
+// media queries to resize elements based on device size
 // ========================================================================
 */
 
-@media only screen and (max-width: 650px) {
-  /* top right bottom left */
-  .what-block { margin: 0px 0px 20px 0px; }
-  .showcase-block { margin: 0px 0px 20px 0px; }
-  .sticky-column { position: initial; }
-  .top-bar-section { margin-top: 0px; }
-  .border-dynamic { padding-bottom: 0px; }
+@media only screen and (max-width: 800px) {
 }
