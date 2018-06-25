@@ -2,7 +2,16 @@
 layout: default
 ---
 
-<div class="small-12 medium-5 columns border-dynamic sticky-column">
+<div class="show-for-small-only small-12 columns border-dynamic">
+  <p class="font-medium text-left color-white uppercase">
+    {{ page.title }}
+  </p>
+  <p class="font-small text-left color-black">
+    {{ page.desc }}
+  </p>
+</div>
+
+<div class="show-for-medium-up medium-5 columns border-dynamic sticky-column">
   <p class="font-medium text-left color-white uppercase">
     {{ page.title }}
   </p>

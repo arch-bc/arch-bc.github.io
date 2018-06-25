@@ -2,6 +2,7 @@
 layout: project
 title: A Stable Extension
 permalink: /project3/
+
 desc:
       A private dwelling house.<br><br>
       While not listed itself, it once formed a stable block and outbuildings for an adjacent Grade 2 listed building and is also located in the Metropolitan Greenbelt.<br><br>
