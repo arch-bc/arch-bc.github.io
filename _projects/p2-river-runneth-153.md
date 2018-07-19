@@ -1,7 +1,7 @@
 ---
 layout: project
 title: A River Runneth
-permalink: /project11/
+permalink: /p2-river-runneth-153/
 desc:
     I was appointed to undertake a full building survey (structural survey) of a Grade II listed farmhouse in rural Essex.<br><br>
     When inspecting an outbuilding at the rear of the site, descending the steps into the cellar, I found intact wattle and daub (e.g. infill panels made from made from mud straw applied onto a lattice of branches), covered with haired lime plaster and carpenters marks within the stairwell down to the cellar; fairly typical for a property dating from the 17 Century.<br><br>
@@ -11,15 +11,15 @@ desc:
     The property owner added the tray and connected it to the surface water drainage, which discharges into the pond at the bottom of the rear garden.  This replaced the adjacent sump and sump pump, which was installed by the previous owners.  This would suggest that the basement has been “wet” for at least 30 years.<br><br>
     Technically both of these would constitute alterations to the property and should, therefore, have received Listed Building Consent.<br><br>
     As there is no statutory limitation for prosecution for unauthorised alterations to a listed building and I was unsure whether consent had been sought I advised the purchaser to discuss this with their legal advisors.<br><br>
-    Project reference code 147.
-summary: /imgs/project11/153-grade2-listed-farmhouse-cottage-gal.jpg
+    Project reference code 153.
+summary: /imgs/p2-river-runneth-153/153-grade2-listed-farmhouse-cottage-gal.jpg
 images:
-  - mobile: /imgs/project11/mobile/1-153-grade2-listed-farmhouse-cottage-m.jpg
-  - mobile: /imgs/project11/mobile/2-153-grade2-listed-farmhouse-cottage-m.jpg
-  - mobile: /imgs/project11/mobile/3-153-historic-timber-frame-carpenters-marks-m.jpg
-  - mobile: /imgs/project11/mobile/4-153-brick-pavers-cellar-damp-natural-spring-m.jpg
-  - desktop: /imgs/project11/desktop/1-153-grade2-listed-farmhouse-cottage-dt.jpg
-  - desktop: /imgs/project11/desktop/2-153-grade2-listed-farmhouse-cottage-dt.jpg
-  - desktop: /imgs/project11/desktop/3-153-historic-timber-frame-carpenters-marks-dt.jpg
-  - desktop: /imgs/project11/desktop/4-153-brick-pavers-cellar-damp-natural-spring-dt.jpg
+  - mobile: /imgs/p2-river-runneth-153/mobile/1-153-grade2-listed-farmhouse-cottage-m.jpg
+  - mobile: /imgs/p2-river-runneth-153/mobile/2-153-grade2-listed-farmhouse-cottage-m.jpg
+  - mobile: /imgs/p2-river-runneth-153/mobile/3-153-historic-timber-frame-carpenters-marks-m.jpg
+  - mobile: /imgs/p2-river-runneth-153/mobile/4-153-brick-pavers-cellar-damp-natural-spring-m.jpg
+  - desktop: /imgs/p2-river-runneth-153/desktop/1-153-grade2-listed-farmhouse-cottage-dt.jpg
+  - desktop: /imgs/p2-river-runneth-153/desktop/2-153-grade2-listed-farmhouse-cottage-dt.jpg
+  - desktop: /imgs/p2-river-runneth-153/desktop/3-153-historic-timber-frame-carpenters-marks-dt.jpg
+  - desktop: /imgs/p2-river-runneth-153/desktop/4-153-brick-pavers-cellar-damp-natural-spring-dt.jpg
 ---
