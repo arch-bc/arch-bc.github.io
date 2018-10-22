@@ -9,8 +9,8 @@ desc:
     
 
 images:
-  - mobile: /imgs/articles/desktop/limecrete-ad-1-dt.jpg
-  - mobile: /imgs/articles/desktop/limecrete-ad-2-dt.jpg
-  - desktop: /imgs/articles/desktop/limecrete-ad-1-dt.jpg
-  - desktop: /imgs/articles/desktop/limecrete-ad-2-dt.jpg
+  - mobile: /imgs/articles/floored-by-limecrete/desktop/limecrete-ad-1-dt.jpg
+  - mobile: /imgs/articles/floored-by-limecrete/desktop/limecrete-ad-2-dt.jpg
+  - desktop: /imgs/articles/floored-by-limecrete/desktop/limecrete-ad-1-dt.jpg
+  - desktop: /imgs/articles/floored-by-limecrete/desktop/limecrete-ad-2-dt.jpg
 ---
