@@ -4,7 +4,7 @@ title: FLOORED BY LIMECRETE
 permalink: /floored-by-limecrete/
 desc:
     An article written for Listed Heritage Magazine, by Peter Hayes. <br>
-    January/February 2018. 
+    January/February 2018 
 
     
 
