@@ -1,6 +1,6 @@
 ---
 layout: service
-title: HOW TO RENOVATE A LISTED BUILDING
+title: HOW TO RENOVATE A LISTED HOME
 permalink: /how-to-renovate/
 desc:
     An article written for Home Building & Renovating Magazine, by Peter Hayes. <br>
