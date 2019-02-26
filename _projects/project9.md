@@ -6,7 +6,7 @@ desc:
     A Grade 2, late medieval timber frame house.<br><br>
     I previously assisted the present owner in attaining listed building consent approval and clearing planning conditions, as part of alteration works to return the main part of the property to a private residential dwelling.<br><br>
     Part of the property was damaged by a car impact.  I have been working with the client and loss adjuster in attaining the Listed Building Consent approval for the reinstatement works.<br><br>
-    Project reference code 126.
+    Project reference code 129.
 summary: /imgs/project9/129-04-3D-Proposed-Exterior-View-EDIT.jpg
 images:
   - mobile: /imgs/project9/mobile/1_129-04-3D-Proposed-Exterior-View-EDIT.jpg
