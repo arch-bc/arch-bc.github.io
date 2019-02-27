@@ -10,11 +10,13 @@ summary: /imgs/p1-morris-and-webb-157/William-Morris-Much-Hadham-gal.jpg
 images:
   - mobile: /imgs/p1-morris-and-webb-157/mobile/1-157-William-Morris-Much-Hadham-Grade-2-Listed-Cottage-m.jpg
   - mobile: /imgs/p1-morris-and-webb-157/mobile/2-157-Cast-iron-rooflight-replacement-listed-building-consent-m.jpg
+  - mobile: /imgs/p1-morris-and-webb-157/mobile/rooflight-interior-m.jpg
   - mobile: /imgs/p1-morris-and-webb-157/mobile/3-157-Proposed-Rooflight-3D-Views-m.jpg
   - mobile: /imgs/p1-morris-and-webb-157/mobile/4-157-11a-proposed-sections-m.jpg
   - desktop: /imgs/p1-morris-and-webb-157/desktop/1-157-William-Morris-Much-Hadham-Grade-2-Listed-Cottage-dt.jpg
   - desktop: /imgs/p1-morris-and-webb-157/desktop/2-157-Cast-iron-rooflight-replacement-listed-building-consent-dt.jpg
+  - desktop: /imgs/p1-morris-and-webb-157/desktop/rooflight-interior-dt.jpg
   - desktop: /imgs/p1-morris-and-webb-157/desktop/3-157-Proposed-Rooflight-3D-Views-dt.jpg
-  - desktop: /imgs/1-morris-and-webb-157/desktop/4-157-11a-proposed-sections-dt.jpg
+  - desktop: /imgs/p1-morris-and-webb-157/desktop/4-157-11a-proposed-sections-dt.jpg
 
 ---
