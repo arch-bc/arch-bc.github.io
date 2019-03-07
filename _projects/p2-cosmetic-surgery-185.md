@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Cosmetic Survey
+title: Cosmetic Surgery
 permalink: /p2-cosmetic-surgery-185/
 desc:
    A Grade 2 listed building, dating from the 19th Century, that once was the county hospital. The property was redeveloped and converted into several apartments around 2000.<br><br>
