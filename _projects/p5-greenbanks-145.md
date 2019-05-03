@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Greenbanks
+title: Green Banks
 permalink: /p5-greenbanks-145/
 desc:
    While the site is adjacent to a listed building, this was a slightly atypical commission for me, although involved elements of new design aesthetics and sustainable building materials; both of which I have used in the historic environment context.<br><br>
