@@ -8,7 +8,7 @@ desc:
     The farm and outbuildings once formed part of a larger estate.  Cartographic analysis and documentary research from the Historic England Archive indicated that there was once an extension to the rear of the granary.  This was corroborated by various site evidence during my initial measured survey and inspection.<br><br>
     Following minor amendments and approval by the client of the sketch scheme drawings, which incorporated some 3D visualisations, the application was prepared, submitted and subsequently approved.<br><br>
     The Local Authority applied some pre-commencement conditions to the approval including provision of detailed drawings of the windows.  These conditions needed to be cleared before work was commencement, to ensure the permission remained valid. A further application was made and the drawings were approved by the Planning Department.<br><br>
-    For the same client, I also recently attained Listed Building Consent for a front entrance porch and a motor shed.<br><br>
+    For the same client, I also recently attained Listed Building Consents for a front entrance porch and a motor shed, and planning approval for a tack room and store bale.<br><br>
     Project reference code 136.
 summary: /imgs/p2-out-back-136/6-136-completed-granary-outbuilding-curtilage-gal.jpg
 images:
