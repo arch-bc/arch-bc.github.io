@@ -7,7 +7,7 @@ desc:
    Project reference code 152.
 summary: /imgs/p1-period-artistry-152/westfield-hall-listed-building-gal.jpg
 images:
-  - mobile: /imgs/p1-period-artistry-152/mobile/1-westfield-hall-listed-entrance-mob.jpg
+  - mobile: /imgs/p1-period-artistry-152/mobile/1-westfield-hall-listed-entrance-withoutlight-mob.jpg
   - mobile: /imgs/p1-period-artistry-152/mobile/2-westfield-hall-listed-architecture-bedroom-mob.jpg
   - mobile: /imgs/p1-period-artistry-152/mobile/3-152-livingroom-fireplace-mob.jpg
   - mobile: /imgs/p1-period-artistry-152/mobile/4-152-bathroom-panneling-mob.jpg
@@ -22,7 +22,7 @@ images:
   - mobile: /imgs/p1-period-artistry-152/mobile/13-152-36-west-elev-porch-window-mob.jpg
   - mobile: /imgs/p1-period-artistry-152/mobile/14-152-proposed-revised-rooflight-mob.jpg
   - mobile: /imgs/p1-period-artistry-152/mobile/15-152-bathroom-inprogress-mob.jpg
-  - desktop: /imgs/p1-period-artistry-152/desktop/1-westfield-hall-listed-entrance-dt.jpg
+  - desktop: /imgs/p1-period-artistry-152/desktop/1-westfield-hall-listed-entrance-withoutlight-dt.jpg
   - desktop: /imgs/p1-period-artistry-152/desktop/2-westfield-hall-listed-architecture-bedroom-dt.jpg
   - desktop: /imgs/p1-period-artistry-152/desktop/3-152-livingroom-fireplace-dt.jpg
   - desktop: /imgs/p1-period-artistry-152/desktop/4-152-bathroom-panneling-dt.jpg
