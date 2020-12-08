@@ -3,7 +3,7 @@ layout: service
 title: REPAIR & MAINTENANCE
 permalink: /maintenance/
 desc:
-    In addition to pre-purchase building surveys, I can inspect and provide impartial and professional
+    I can inspect and provide impartial and professional
     repair advice in respect of specific building defects. Unlike some building repair contractors, who may
     be involved in one particular repair methodology or may not fully appreciate the importance of using
     certain types of repair, I can offer independent advice when diagnosing the cause of defects with
