@@ -3,8 +3,21 @@ layout: project
 title: Period Artistry
 permalink: /p1-period-artistry-152/
 desc:
-   Description coming soon<br><br>
+   A Grade II* former farmhouse, with different phases of construction; the oldest of which dates back to the 16th century and was probably a late-mediaeval open hall of two bays. The house also contains a former brewhouse and a later 17th-century, three-storey wing.<br><br>  
+
+   In addition to the historic timber frame, notable architectural features within the property include the 17th-century wall panelling, hand-painted stencil work and wall paintings, and carved chamber beams, newel posts and splat banisters.<br><br> 
+
+   Over a period of three years,  I worked with the property owner, the Local Authority conservation officer; and - being a Grade II* property - Historic England.<br><br> 
+
+   As well as providing repair advice, I successfully attained a total of 8 listed building consents, for various sensitive alterations to upgrade and enhance the property, as part of the property owners works to create their family home.<br><br>
+
+   Some of these works included restoring the inglenook fireplace and installing a wood burning stove; and installation of new windows and roof lights.<br><br> 
+
+   I also received consent to install new bespoke made timber panelling, to protect some of the wall paintings and enable partial remodelling to give access to a refurbished bathroom. The new panelling was based on the proportions of the historic panelling elsewhere in the building.<br><br>
+
+   The timescale for the refurbishment works enabled me to gain a real understanding of the historic significance of the building and develop a strong working relationship with the client. The property was fascinating to work on and it was a pleasure to help the owners create such a beautiful home.<br><br>
    Project reference code 152.
+   
 summary: /imgs/p1-period-artistry-152/westfield-hall-listed-building-gal.jpg
 images:
   - mobile: /imgs/p1-period-artistry-152/mobile/1-westfield-hall-listed-entrance-withoutlight-mob.jpg

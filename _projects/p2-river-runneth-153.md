@@ -12,8 +12,7 @@ desc:
     Technically both of these would constitute alterations to the property and should, therefore, have received Listed Building Consent.<br><br>
     As there is no statutory limitation for prosecution for unauthorised alterations to a listed building and I was unsure whether consent had been sought I advised the purchaser to discuss this with their legal advisors.<br><br>
     Project reference code 153.
-    <br />
-    <br />
+    
 summary: /imgs/p2-river-runneth-153/153-grade2-listed-farmhouse-cottage-gal.jpg
 images:
   - mobile: /imgs/p2-river-runneth-153/mobile/1-153-grade2-listed-farmhouse-cottage-m.jpg
@@ -24,8 +23,5 @@ images:
   - desktop: /imgs/p2-river-runneth-153/desktop/2-153-grade2-listed-farmhouse-cottage-dt.jpg
   - desktop: /imgs/p2-river-runneth-153/desktop/3-153-historic-timber-frame-carpenters-marks-dt.jpg
   - desktop: /imgs/p2-river-runneth-153/desktop/4-153-brick-pavers-cellar-damp-natural-spring-dt.jpg
-  - <br />
-  - <br />
-  - <br />
-  - <br />
+ 
 ---
