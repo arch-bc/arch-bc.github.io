@@ -8,8 +8,7 @@ desc:
     The owner had replaced the existing adjacent sump and pump with a tray connected to the surface water drainage, discharging into the garden. Technically both would constitute alterations to the property and should have received Listed Building Consent. There is no statutory limitation for prosecution for unauthorised alterations to a listed building. Being unsure whether consent had been sought I advised the purchaser to discuss this with their legal advisors.<br><br>
     The property is in a valley, near to a river in area containing several natural springs – so the source of water within the basement could be down to a natural spring. Another possibility was a leak from the mains supply, this being adjacent to the water ingress to the cellar.<br><br>
     Although particularly damp, even for a cellar, the “stream” of water was draining away satisfactorily and did not appear to be adversely affecting the structure of the building. I measured a high moister content in the floor joists and timbers embedded into the walls. In the long term this will make them more prone to the mechanisms of decay (e.g. rot and beetle attack)..<br><br>
-    I advised, subject to confirmation on the water source, that other works could be undertaken to improve the environmental conditions and help with the building’s long term conservation.<br><br>
-    Project reference code 153.
+    I advised, subject to confirmation on the water source, that works be undertaken to improve the environmental conditions and help the building’s long term conservation. Project reference code 153.
     
 summary: /imgs/p2-river-runneth-153/153-grade2-listed-farmhouse-cottage-gal.jpg
 images:
