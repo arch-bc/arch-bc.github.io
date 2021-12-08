@@ -14,7 +14,7 @@ desc:
       Project reference code 160.
 summary: /imgs/p3-back-baking-160/160-back-to-baking-gal-v2.jpg
 images:
-  - mobile: /imgs/p3-back-baking-160/mobile/1-back-to-baking-sketch-inglenook-chimeny-repair-160-mob.jpg
+  - mobile: /imgs/p3-back-baking-160/mobile/1-First-Sketch-Scheme-v2-mob.jpg
   - mobile: /imgs/p3-back-baking-160/mobile/2-back-to-baking-sketch-inglenook-chimeny-repair-doors-proposed-160-mob.jpg
   - mobile: /imgs/p3-back-baking-160/mobile/3-back-to-baking-proposed-section-sketch-inglenook-chimeny-repair-doors-proposed-160-mob.jpg
   - mobile: /imgs/p3-back-baking-160/mobile/4-reverse-back-to-baking-mob.jpg
@@ -24,7 +24,7 @@ images:
   - mobile: /imgs/p3-back-baking-160/mobile/8-fireplace-before-to-baking-mob.jpg
   - mobile: /imgs/p3-back-baking-160/mobile/9-wall-detail-fireplace-to-baking-mob.jpg
   
-  - desktop: /imgs/p3-back-baking-160/desktop/1-back-to-baking-sketch-inglenook-chimeny-repair-160-dt.jpg
+  - desktop: /imgs/p3-back-baking-160/desktop/1-160-15-Prop-3D-View-NW-dt.jpg
   - desktop: /imgs/p3-back-baking-160/desktop/2-back-to-baking-sketch-inglenook-chimeny-repair-doors-proposed-160-dt.jpg
   - desktop: /imgs/p3-back-baking-160/desktop/desktop/3-back-to-baking-proposed-section-sketch-inglenook-chimeny-repair-doors-proposed-160-dt.jpg
   - desktop: /imgs/p3-back-baking-160/desktop/4-reverse-back-to-baking-dt.jpg
