@@ -12,7 +12,7 @@ desc:
       The owner project managed and oversaw the extension construction and refurbishment work themselves - although they did subsequently require an additional construction detail of the extension roof structure and insulation.<br><br>
       It was a pleasure to work with the owner, helping them to bring their cottage into good repair and create a family home - this will also assist in the cottage’s conservation long-term.<br><br>
       Project reference code 160.
-summary: /imgs/p3-back-baking-160/160-back-to-baking-gal.jpg
+summary: /imgs/p3-back-baking-160/160-back-to-baking-gal-v2.jpg
 images:
   - mobile: /imgs/p3-back-baking-160/mobile/1-back-to-baking-sketch-inglenook-chimeny-repair-160-mob.jpg
   - mobile: /imgs/p3-back-baking-160/mobile/2-back-to-baking-sketch-inglenook-chimeny-repair-doors-proposed-160-mob.jpg
