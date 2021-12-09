@@ -1,4 +1,11 @@
 tasks:
-  - name: run server
-    init: bundle install
-    command: bash jekyll serve
+  - name: bundle
+    init: >
+      bundle install
+      gp sync-done bundle
+    command: bundle
+
+  - name: jekyll
+    init: gp sync-await bundle
+    command: jekyll serve
+
