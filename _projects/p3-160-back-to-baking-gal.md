@@ -26,7 +26,7 @@ images:
   
   - desktop: /imgs/p3-back-baking-160/desktop/1-160-15-Prop-3D-View-NW-dt.jpg
   - desktop: /imgs/p3-back-baking-160/desktop/2-back-to-baking-sketch-inglenook-chimeny-repair-doors-proposed-160-dt.jpg
-  - desktop: /imgs/p3-back-baking-160/desktop/desktop/3-back-to-baking-proposed-section-sketch-inglenook-chimeny-repair-doors-proposed-160-dt.jpg
+  - desktop: /imgs/p3-back-baking-160/desktop/3-back-to-baking-proposed-section-sketch-inglenook-chimeny-repair-doors-proposed-160-dt.jpg
   - desktop: /imgs/p3-back-baking-160/desktop/4-reverse-back-to-baking-dt.jpg
   - desktop: /imgs/p3-back-baking-160/desktop/5-front-back-to-baking-dt.jpg
   - desktop: /imgs/p3-back-baking-160/desktop/6-fireplace-to-baking-dt.jpg
