@@ -1,4 +1,4 @@
 tasks:
   - name: run server
     init: bundle install
-    command: bundle exec jekyll serve --watch
+    command: bash jekyll serve
