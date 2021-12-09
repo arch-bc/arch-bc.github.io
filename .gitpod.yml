@@ -1,9 +1,8 @@
 tasks:
   - name: bundle
     init: >
-      bundle install
+      bundle install &&
       gp sync-done bundle
-    command: bundle
 
   - name: jekyll
     init: gp sync-await bundle
