@@ -1,5 +1,4 @@
 tasks:
-  - name: install
-    command: bundle install
   - name: run server
+    init: bundle install
     command: jekyll serve
