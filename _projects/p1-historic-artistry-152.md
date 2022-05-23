@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Period Artistry
-permalink: /p1-period-artistry-152/
+title: Historic Artistry
+permalink: /p1-historic-artistry-152/
 desc:
    A Grade II* former farmhouse, with different phases of construction; the oldest of which dates back to the 16th century and was probably a late-mediaeval open hall of two bays. The house also contains a former brewhouse and a later 17th-century, three-storey wing.<br><br>  
 
