@@ -1,6 +1,6 @@
 ---
 layout: project
-title: A Sizeable Survey
+title: A Wonky Window
 permalink: /project7/
 desc:
     A survey of a substantial 6 bedroom residential, Grade 2 listed, property with a large range of outbuildings to the rear.<br><br>
