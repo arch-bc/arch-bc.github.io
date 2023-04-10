@@ -1,5 +1,6 @@
 tasks:
   - name: jekyll
     command: >
+      bundle update &&
       bundle install &&
       jekyll serve
