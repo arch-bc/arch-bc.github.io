@@ -18,8 +18,8 @@ body {
   max-width: initial;
 }
 
-.full-height {
-  min-height: 550px;
+.min-height {
+  min-height: 700px;
 }
 
 /* top bar defaults */
