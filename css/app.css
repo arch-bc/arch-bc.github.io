@@ -18,10 +18,6 @@ body {
   max-width: initial;
 }
 
-.min-height {
-  min-height: 700px;
-}
-
 /* top bar defaults */
 .top-bar {
   height: 90px;
