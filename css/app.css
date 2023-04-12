@@ -282,11 +282,6 @@ body {
   height: 100%;
 }
 
-.map-fit {
-  height: 700px;
-  object-fit: cover;
-}
-
 /*
 // ========================================================================
 // Highlight image selection
