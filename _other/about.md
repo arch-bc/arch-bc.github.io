@@ -9,7 +9,7 @@ desc:
     To compliment his practical experience Peter achieved a Distinction in his Masters Degree in Conservation of the
     Historic Environment and is currently working towards the RICS Building Conservation Accreditation.<br><br>
 
-    Peter is also an affiliate member of the Institute of Historic Building Conservation (IHBC), a member of the
+    Peter is also a supporter member of the Institute of Historic Building Conservation (IHBC), a member of the
     Buildings Limes Forum and the Society for the Protection of Ancient Buildings (SPAB).
 
 images:
