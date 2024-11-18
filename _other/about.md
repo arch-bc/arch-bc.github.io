@@ -9,7 +9,7 @@ desc:
 
     To complement his practical experience, Peter achieved a Distinction in his Masters Degree in Conservation of the Historic Environment and also has a qualification in “Energy Efficiency Measures in Older and Traditional Buildings”.<br><br>
 
-    Peter has successfully achieved affiliate membership of the Institute of Historic Building Conservation (IHBC), by formally demonstrating his awareness of the built and historic environment conservation practice, in line with their requirements. He is also a long-standing member of both the Buildings Limes Forum and the Society for the Protection of Ancient Buildings (SPAB). I have also been assessed and have met the requirements of the Carbon Literacy Standard, via the Heritage Alliance.<br><br>
+    Peter has successfully achieved affiliate membership of the Institute of Historic Building Conservation (IHBC), by formally demonstrating his awareness of the built and historic environment conservation practice, in line with their requirements. He is also a long-standing member of both the Buildings Limes Forum and the Society for the Protection of Ancient Buildings (SPAB). He has also been assessed and has met the requirements of the Carbon Literacy Standard, via the Heritage Alliance.<br><br>
 
     Peter set up ARCH Building Consultancy Ltd. in 2014 to provide professional advice and services for the alteration, repair and conservation of Listed Buildings.
 
